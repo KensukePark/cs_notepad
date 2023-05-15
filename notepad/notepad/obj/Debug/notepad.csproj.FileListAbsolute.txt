@@ -1,0 +1,20 @@
+c:\users\server master\documents\visual studio 2015\Projects\notepad\notepad\bin\Debug\notepad.exe.config
+c:\users\server master\documents\visual studio 2015\Projects\notepad\notepad\bin\Debug\notepad.exe
+c:\users\server master\documents\visual studio 2015\Projects\notepad\notepad\bin\Debug\notepad.pdb
+c:\users\server master\documents\visual studio 2015\Projects\notepad\notepad\obj\Debug\notepad.Form1.resources
+c:\users\server master\documents\visual studio 2015\Projects\notepad\notepad\obj\Debug\notepad.Properties.Resources.resources
+c:\users\server master\documents\visual studio 2015\Projects\notepad\notepad\obj\Debug\notepad.csproj.GenerateResource.Cache
+c:\users\server master\documents\visual studio 2015\Projects\notepad\notepad\obj\Debug\notepad.exe
+c:\users\server master\documents\visual studio 2015\Projects\notepad\notepad\obj\Debug\notepad.pdb
+C:\Users\HyunWoo\source\repos\notepad\notepad\bin\Debug\notepad.exe.config
+C:\Users\HyunWoo\source\repos\notepad\notepad\bin\Debug\notepad.exe
+C:\Users\HyunWoo\source\repos\notepad\notepad\bin\Debug\notepad.pdb
+C:\Users\HyunWoo\source\repos\notepad\notepad\obj\Debug\notepad.csprojAssemblyReference.cache
+C:\Users\HyunWoo\source\repos\notepad\notepad\obj\Debug\notepad.Properties.Resources.resources
+C:\Users\HyunWoo\source\repos\notepad\notepad\obj\Debug\notepad.csproj.GenerateResource.cache
+C:\Users\HyunWoo\source\repos\notepad\notepad\obj\Debug\notepad.csproj.CoreCompileInputs.cache
+C:\Users\HyunWoo\source\repos\notepad\notepad\obj\Debug\notepad.exe
+C:\Users\HyunWoo\source\repos\notepad\notepad\obj\Debug\notepad.pdb
+C:\Users\HyunWoo\source\repos\notepad\notepad\obj\Debug\notepad.MainForm.resources
+C:\Users\HyunWoo\source\repos\notepad\notepad\obj\Debug\notepad.FrmFind.resources
+C:\Users\HyunWoo\source\repos\notepad\notepad\obj\Debug\notepad.FrmReplace.resources
